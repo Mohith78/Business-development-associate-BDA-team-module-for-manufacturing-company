@@ -1,6 +1,6 @@
-# SmartCRM
+# SmartBDA
 
-SmartCRM is a full-stack MERN CRM and workflow platform for a manufacturing company's BDA team. It includes JWT authentication, role-based access, lead CRUD, kanban workflow, task management, analytics charts, activity timeline, and an AI-inspired lead score predictor.
+SmartBDA is a full-stack MERN CRM and workflow platform for a manufacturing company's BDA team. It includes JWT authentication, role-based access, lead CRUD, kanban workflow, task management, analytics charts, activity timeline, and an AI-inspired lead score predictor.
 
 ## Live Demo
 
