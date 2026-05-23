@@ -4,9 +4,9 @@ SmartCRM is a full-stack MERN CRM and workflow platform for a manufacturing comp
 
 ## Live Demo
 
-- Frontend (Vercel): `https://your-app.vercel.app`
-- Backend (Render): `https://your-api.onrender.com`
-- Health check: `https://your-api.onrender.com/api/health`
+- Frontend (Vercel): `https://business-development-associate-bda-team-module-for-kmnlner9z.vercel.app`
+- Backend (Render): `https://business-development-associate-bda-team.onrender.com`
+- Health check: `https://business-development-associate-bda-team.onrender.com/`
 
 ## Stack
 
@@ -77,7 +77,7 @@ CLIENT_URL=http://localhost:5173
 Client `.env` for deployed backend:
 
 ```bash
-VITE_API_URL=https://your-render-service.onrender.com/api
+VITE_API_URL=https://business-development-associate-bda-team-module-for-bc2whlrxl.vercel.app
 ```
 
 ## API Overview
